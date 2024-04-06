@@ -14,6 +14,6 @@ degrees). The final generated scene should look realistic and composite.
 Note: We do not expect you to train or fine-tune your own models, but use existing models (including
 the amazing one you have in your skull) and creatively find solutions to the two tasks.
 ### Tasks.
-""" Task 1 : This task is to write an executable code that takes the input scene and the text prompt
+Task 1 : This task is to write an executable code that takes the input scene and the text prompt
 from the command line argument and outputs an image with a red mask on all pixels where
 the object (denoted in the text prompt) was present.
