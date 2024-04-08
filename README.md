@@ -51,5 +51,13 @@ Some examples of the generated outputs
 ![Flower%20vase](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/74102fb2720655f6b9acd40b007e488c40dff8c3/assets/images/flower%20vase.jpg)
 ![Segmented](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/7b7a71bc5d8f7cc8ef86d6c5399967cde1f3fb56/assets/images/generated.png)
 
+<div align="center">
+  <h2>Cat and dog</h2>
+</div>
+
+![Cat_dog](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/cat_dog.jpg)
+![cat](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_cat.jpg)
+![dog](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_dog.jpg)
+
 
 
