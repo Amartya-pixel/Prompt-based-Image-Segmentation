@@ -37,5 +37,6 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ```
 
 ## Output
-![Chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/b30964ea771f5c711442273fbaef4324f90410ac/assets/images/chair.jpg)
+![Actual chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/b30964ea771f5c711442273fbaef4324f90410ac/assets/images/chair.jpg)
+![Segmented chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/676eb450b150178bda25966de3456fc1bfee834a/assets/images/reconstructed.jpg)
 
