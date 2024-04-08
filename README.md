@@ -66,6 +66,9 @@ Some examples of the generated outputs
   
 </div>
 
+## References
+[1.](https://docs.ultralytics.com/models/yolov8/#key-features)
+
 
 
 
