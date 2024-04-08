@@ -39,13 +39,15 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ## Output
 Some examples of the generated outputs
 <div align="center">
-  <h2>1. Indoor chair</h2>
+  <h2>Indoor chair</h2>
 </div>
 
 
 ![Chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/b30964ea771f5c711442273fbaef4324f90410ac/assets/images/chair.jpg)
 ![Segmented%20chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/676eb450b150178bda25966de3456fc1bfee834a/assets/images/reconstructed.jpg)
-2. Flower vase
+<div align="center">
+  <h2>Flower vase</h2>
+</div>
 ![Flower%20vase](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/74102fb2720655f6b9acd40b007e488c40dff8c3/assets/images/flower%20vase.jpg)
 ![Segmented](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/7b7a71bc5d8f7cc8ef86d6c5399967cde1f3fb56/assets/images/generated.png)
 
