@@ -37,5 +37,5 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ```
 
 ## Output
-![Chair]([assets/images/chair.jpg))
+![Chair]([assets/images/chair.jpg])
 
