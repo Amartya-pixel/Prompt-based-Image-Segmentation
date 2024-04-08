@@ -77,7 +77,7 @@ Some examples of the generated outputs
 
 ## Contact
 - **Email:** amartya@cse.iitm.ac.in
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amartya-basu-510b7a1a2)
+- **LinkedIn:** [Amartya Basu](https://www.linkedin.com/in/amartya-basu-510b7a1a2)
 
 
 
