@@ -37,5 +37,5 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ```
 
 ## Output
-![Chair]([https://github.com/username/repository/raw/main/image.jpg](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/main/assets/images/chair.jpg))
+![Chair]([assets/images/chair.jpg))
 
