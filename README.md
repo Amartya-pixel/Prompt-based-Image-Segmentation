@@ -39,7 +39,7 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ## Output
 Some examples of the generated outputs
 <div align="center">
-  <h2>Indoor chair</h2>
+  <h2>One chair</h2>
 </div>
 
 ![Chair](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/b30964ea771f5c711442273fbaef4324f90410ac/assets/images/chair.jpg)
@@ -56,6 +56,13 @@ Some examples of the generated outputs
   <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/cat_dog.jpg" alt="Original" width="300" style="margin-right: 20px;">
   <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_cat.jpg" alt="Segment 1" width="300" style="margin-right: 20px;">
   <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_dog.jpg" alt="Segment 2" width="300">
+</div>
+
+<div align="center">
+  <h2>Some more real world application</h2>
+  <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/0a4df38e527813dfae2e66f5d7f89dbe3a0095df/assets/images/my_example.jpg" alt="Original" width="300" style="margin-right: 20px;">
+  <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/0a4df38e527813dfae2e66f5d7f89dbe3a0095df/assets/images/reconstructed_car.jpg" alt="Segment" width="300" style="margin-right: 20px;">
+  
 </div>
 
 
