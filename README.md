@@ -32,7 +32,7 @@ cd Avataar.ai-Assignment/
    ```
    pip install -r requirements.txt
    ```
-4. Install the yolov8 model check points. The script uses "yolov8m-seg.pt" check points. Use this link ``` https://docs.ultralytics.com/models/yolov8/#key-features``` for download.
+4. Install the yolov8 model check points. The script uses "yolov8m-seg.pt" check points. Use this link ``` https://docs.ultralytics.com/models/yolov8/#key-features``` to download.
 5. Place the data in the respective folder.
 6. Run the command.
 ```
