@@ -41,7 +41,7 @@ python yolo_script.py --image ./example.jpg --class "chair" --output ./generated
 ```
 
 ## Output
-Some examples of the generated outputs
+Demonstration of some generated outputs. 
 <div align="center">
   <h2>One chair</h2>
    <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/b30964ea771f5c711442273fbaef4324f90410ac/assets/images/chair.jpg" alt="Original" width="300" style="margin-right: 20px;">
