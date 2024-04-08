@@ -17,8 +17,7 @@ Task 1 : This task is to write an executable code that takes the input scene and
 from the command line argument and outputs an image with a red mask on all pixels where
 the object (denoted in the text prompt) was present.
 ### Solution
-There are several techniques available for the purpose of segmentation. Classical techniques utilizes an adaptive threshold (such as <span style="font-variant: small-caps;">OTSU</span>
-, multi-OTSU) to segment out an object of interest. Deep learning based approaches classifies objects inside an image that provides additional information for the segmentation task. Out of the various deep learning based object classifier, I have used YoLov8 for the problem. 
+There are several techniques available for the purpose of segmentation. Classical techniques utilizes an adaptive threshold (such as OTSU, multi-OTSU) to segment out an object of interest. Deep learning based approaches classifies objects inside an image that provides additional information for the segmentation task. Out of the various deep learning based object classifier, I have used YoLov8 for the problem. 
 #### Challenges
 YoLoV8 classifies all objects present inside an image and provides coordinate points of the object end point. Mapping a tect prompt with the object points was the challenging part of the problem. 
 
