@@ -53,9 +53,13 @@ Some examples of the generated outputs
 
 <div align="center">
   <h2>Cat and dog</h2>
+  <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/cat_dog.jpg" alt="Image 1" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_cat.jpg" alt="Image 2" width="200" style="margin-right: 20px;">
+  <img src="https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_dog.jpg" alt="Image 3" width="200">
 </div>
 
-![Cat_dog](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/cat_dog.jpg)
+
+![Cat_dog]()
 ![cat](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_cat.jpg)
 ![dog](https://github.com/Amartya-pixel/Avataar.ai-Assignment/blob/6a299fd94739a42c37ace517380fa6b31696312a/assets/images/reconstructed_dog.jpg)
 
