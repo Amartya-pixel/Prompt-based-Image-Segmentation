@@ -22,7 +22,6 @@ There are several techniques available for the purpose of segmentation. Classica
 YoLoV8 classifies all objects present inside an image and provides coordinate points of the object end point. Mapping a tect prompt with the object points was the challenging part of the problem. 
 
 ##### Installations
-### _For Linux users_
 1. Create a virtual environment in your system.
 2. Downnload the repository (either by git clone or zip download). You can use the git clone command and follow the given instructions -
   ```
