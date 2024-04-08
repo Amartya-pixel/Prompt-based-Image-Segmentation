@@ -71,6 +71,10 @@ Some examples of the generated outputs
 
 [2. Segment anything model (SAM)](https://segment-anything.com)
 
+## Contact
+- **Email:** amartya@cse.iitm.ac.in
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
 
 
 
