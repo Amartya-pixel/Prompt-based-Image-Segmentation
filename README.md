@@ -17,3 +17,16 @@ the amazing one you have in your skull) and creatively find solutions to the two
 Task 1 : This task is to write an executable code that takes the input scene and the text prompt
 from the command line argument and outputs an image with a red mask on all pixels where
 the object (denoted in the text prompt) was present.
+
+##### Installations
+1. Create a virtual environment in your system.
+2. Downnload the repository (either by git clone or zip download). You can use the git clone command and follow the given instructions -
+  ```
+git clone 
+git Aavatar_assignment
+```
+3. Install the required dependencies using the given below command.
+   ```
+   pip install -r requirements.txt
+   ```
+4. 
