@@ -71,7 +71,6 @@ Demonstration of some generated outputs.
 
 ## References
 [1.YoLoV8](https://docs.ultralytics.com/models/yolov8/#key-features)
-
 [2. Segment anything model (SAM)](https://segment-anything.com)
 
 ## Contact
