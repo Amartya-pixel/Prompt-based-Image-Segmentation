@@ -74,7 +74,7 @@ Demonstration of some generated outputs.
 [2. Segment anything model (SAM)](https://segment-anything.com)
 
 ## Contact
-- **Email:** amartya@cse.iitm.ac.in <br>- **LinkedIn:** [Amartya Basu](https://www.linkedin.com/in/amartya-basu-510b7a1a2)
+- **Email:** amartya@cse.iitm.ac.in<br>- **LinkedIn:** [Amartya Basu](https://www.linkedin.com/in/amartya-basu-510b7a1a2)
 
 
 
