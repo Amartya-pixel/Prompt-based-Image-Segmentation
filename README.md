@@ -67,7 +67,8 @@ Some examples of the generated outputs
 </div>
 
 ## References
-[1.](https://docs.ultralytics.com/models/yolov8/#key-features)
+[1.YoloV8](https://docs.ultralytics.com/models/yolov8/#key-features)
+[2. Segment anything model (SAM)](https://segment-anything.com)
 
 
 
