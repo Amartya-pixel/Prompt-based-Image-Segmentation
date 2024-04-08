@@ -1,5 +1,5 @@
 # Avataar.ai-Assignment
-## Problem statement : __Edit pose of an object in a scene__
+## Problem statement : _Edit pose of an object in a scene_
 Recent advancement in generative AI has led to a development of a lot of creative workflows. One
 such workflow is to use generative AI techniques for editing product photographs after they have
 been shot at a studio, for example to polish the scene for displaying the product on an e-commerce
