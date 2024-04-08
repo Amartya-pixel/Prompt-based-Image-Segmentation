@@ -22,11 +22,17 @@ the object (denoted in the text prompt) was present.
 1. Create a virtual environment in your system.
 2. Downnload the repository (either by git clone or zip download). You can use the git clone command and follow the given instructions -
   ```
-git clone 
-git Aavatar_assignment
+git clone https://github.com/Amartya-pixel/Avataar.ai-Assignment.git
+cd Avataar.ai-Assignment/
 ```
 3. Install the required dependencies using the given below command.
    ```
    pip install -r requirements.txt
    ```
-4. 
+4. Install the yolov8 model check points. The script uses "yolov8m-seg.pt" check points. Use this link ``` https://docs.ultralytics.com/models/yolov8/#key-features``` for download.
+5. Place the data in the respective folder.
+6. Run the command.
+```
+python yolo_script.py --image ./example.jpg --class "chair" --output ./generated.png
+```
+
